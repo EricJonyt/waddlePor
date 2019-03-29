@@ -1,0 +1,16 @@
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\bin\Debug\JIT.Tools.exe.config
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\bin\Debug\JIT.Tools.exe
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\bin\Debug\JIT.Tools.pdb
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\bin\Debug\Net.dll
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\bin\Debug\Net.pdb
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.csprojAssemblyReference.cache
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.Properties.Resources.resources
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.csproj.GenerateResource.cache
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.csproj.CopyComplete
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.exe
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.pdb
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.FInfo.resources
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.FTime.resources
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\JIT.Tools\obj\Debug\JIT.Tools.csproj.ResolveComReference.cache

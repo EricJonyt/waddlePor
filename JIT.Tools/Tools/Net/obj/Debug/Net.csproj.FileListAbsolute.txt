@@ -1,0 +1,5 @@
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\Tools\Net\bin\Debug\Net.dll
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\Tools\Net\bin\Debug\Net.pdb
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\Tools\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\Tools\Net\obj\Debug\Net.dll
+C:\Users\Lance\Documents\Visual Studio 2019\Projects\JIT.Tools\Tools\Net\obj\Debug\Net.pdb
